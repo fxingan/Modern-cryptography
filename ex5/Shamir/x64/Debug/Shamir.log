@@ -1,0 +1,3 @@
+﻿  Shamir.cpp
+C:\Users\LEGION\Desktop\github\Modern-cryptography\ex5\Shamir\Shamir.cpp(65,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Shamir.vcxproj -> C:\Users\LEGION\Desktop\github\Modern-cryptography\ex5\Shamir\x64\Debug\Shamir.exe
